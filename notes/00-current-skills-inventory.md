@@ -3,16 +3,23 @@
 
 ## Python
 - Basics: variables, loops, functions, lists, dictionaries, file handling
-- (Add everything else you already know here)
+- OOPS
+- Exception Handling
+- Modules & Packages
+- Virtual Environments
+- Type Hints
+- Logging
+- Testing
+- Data Classes
 
 ## Other Skills
-- (Paste all relevant knowledge from your OneNote below this line)
+- NumPy
+- Pandas (Basic)
 
 ## Tools & Technologies I Have Touched
-- 
+- (Comming Soon)
 
 ## Gaps I Already Know Exist
-- Advanced Python (type hints, packaging, testing, asyncio)
 - Building production connectors
 - Elasticsearch / vector databases
 - Orchestration
