@@ -2,15 +2,21 @@
 
 ## Machine
 - OS: Windows 11
-- Python version: 
+- Python version: Python 3.14.6
 - Editor: Pycharm
 
 ## Tools Installed
-- [ ] Python 3.11 or 3.12
+- [ ] Python 3.14.6
 - [ ] uv or Poetry
 - [ ] Docker Desktop
 - [ ] Git (configured with name & email)
 - [ ] Local Postgres (Docker preferred)
 
 ## Commands Used for Setup
-(Write the exact commands you run here)
+- Setup env
+
+
+    cd ai-integration-engineer-journey
+    py --version
+    py -m venv env
+    .\env\Scripts\activate
